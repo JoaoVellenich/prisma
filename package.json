@@ -1,0 +1,17 @@
+{
+  "name": "prisma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JoaoVellenich/prisma.git",
+  "author": "JoaoVellenich <jpvellenich@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.6",
+    "prisma": "^5.7.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@prisma/client": "5.7.1"
+  }
+}
